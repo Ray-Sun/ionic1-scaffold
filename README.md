@@ -16,8 +16,8 @@ shell script which can make dev easily with ionic 1
 * concat files and replace resources; be ready for building application
     * replace html file
     * replace image files
-    * concat css files from the different modules
-    * concat js files from the different modules
+    * concat css files from the main module and the different sub modules
+    * concat js files from the main module and the different sub modules
 * build application (ionicBuild)
 * config files for different devices
     * androidDeviceList.config
